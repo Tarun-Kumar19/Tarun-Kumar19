@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tarun Kumar</h1>
 <h3 align="center">A passionate Software Engineer working in software company</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fdilpreet-is-technophile&psig=AOvVaw0z13ZbiaUuVaEkWR6ePEl0&ust=1723614222387000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIi8o7-h8YcDFQAAAAAdAAAAABAZ"> 
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e0f095b942a931f7218f2e9af6a18c791f6d7724b2e524c6509626e3fd7541b5/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun-kumar19&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-kumar19" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarun-kumar19" alt="tarun-kumar19" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack Development, AWS Cloud**
 
