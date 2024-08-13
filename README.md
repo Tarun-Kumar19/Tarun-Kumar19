@@ -1,4 +1,4 @@
-![log](https://github.com/Tarun-Kumar19/Tarun-Kumar19/blob/main/GitHub_Banner.png)
+![log](https://github.com/Tarun-Kumar19/Tarun-Kumar19/blob/main/GitHub-Banner.png)
 <h1 align="center">Hi 👋, I'm Tarun Kumar</h1>
 <h3 align="center">A passionate Software Engineer working in software company</h3>
 
