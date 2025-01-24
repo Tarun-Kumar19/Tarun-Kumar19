@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tarun Kumar</h1>
 <h3 align="center">A passionate Software Engineer working in software company</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e0f095b942a931f7218f2e9af6a18c791f6d7724b2e524c6509626e3fd7541b5/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739"> 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun-kumar19&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-kumar19" /> </p>
 
